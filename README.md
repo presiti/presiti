@@ -1,7 +1,6 @@
-### 👋 안녕하세요. 변윤진입니다.
-### 👋  Hi, I'm YounJin Byun.
+### 🤩 안녕하세요. 변윤진입니다.
+### 🤩  Hi, I'm YounJin Byun.
 
-<!---
-presiti/presiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
