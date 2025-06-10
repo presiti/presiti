@@ -4,7 +4,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=presiti&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/presiti"
-  width="600"
+  width="1000"
   height="300"
 />
 </a>
